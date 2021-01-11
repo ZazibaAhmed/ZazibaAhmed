@@ -31,7 +31,7 @@
 <br />
 
 ---
-[gmail]: https://www.linkedin.com/in/zaziba-ahmed-214b06197/
+[gmail]: mailto:ahmedzaziba@gmail.com
 [facebook]: https://www.facebook.com/zaziba.ahmedtaniza
 [instagram]: https://www.instagram.com/zazi.ba.dum.tss/
 [linkedin]: https://www.linkedin.com/in/zaziba-ahmed-214b06197/
