@@ -2,7 +2,6 @@
 
 - 🔭 I'm Currently focusing on Front-End!
 - 🌱 I’m also trying to learn everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
