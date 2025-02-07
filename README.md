@@ -1,9 +1,5 @@
 ### Hi there, I'm Zaziba 👋
 
-- 🔭 I'm Currently focusing on Front-End!
-- 🌱 I’m also trying to learn everything 🤣
-
-
 ### Connect with me:
 
 [<img align="left" alt="zaziba.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
